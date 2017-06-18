@@ -1,5 +1,8 @@
 {
   "name": "learn-insurance",
-  "app_id": "",
-  "type": "ionic1"
+  "app_id": "f535bc90",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }
